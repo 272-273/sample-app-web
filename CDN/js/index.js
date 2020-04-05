@@ -1,4 +1,5 @@
-(function(){
+(function(){https://wmcc.zoom.us/closedcaption?id=4819097490&ns=RG9uYWxkIE1hcmtzIOKYru-4j-KdpO-4j-KdpO-4&expire=86400&sparams=id%2Cns%2Cexpire&signature=-289I4JdvyxpwGiQefH3_IWuLanNBZxQSRLS4bnboWQ.EwEAAAFxSjOCHQABUYAYaElVa1Nqb08vQXIyeFl4TjNXZjhjUT09QFpGZ3ZWeVlSb3dNWE9vT1p2QTJXSDJRbjNJVmt4QU5CK1BYK2gzNGl5em40OWY2SGZpTExPYkFpNlo2UlBPSXo
+	    
 
 	console.log('checkSystemRequirements');
 	console.log(JSON.stringify(ZoomMtg.checkSystemRequirements()));
